@@ -3,10 +3,10 @@ function mensajeInicial() {
 }
 
 function cambiarImagen(obj) {
-    document.getElementById('fotoDePerfil').src = "C:/Users/Chris/Desktop/Argentina%20programa/CV/Imagenes/PhoenixCircle.png";
+    document.getElementById('fotoDePerfil').src = "https://github.com/ChristianBernassani/ArgentinaPrograma/blob/main/Imagenes/PhoenixCircle.png?raw=true";
 }
 
 function imagenOriginal(obj) {
-    document.getElementById('fotoDePerfil').src = "C:/Users/Chris/Desktop/Argentina%20programa/CV/Imagenes/GladiadorCircle.png";
+    document.getElementById('fotoDePerfil').src = "https://github.com/ChristianBernassani/ArgentinaPrograma/blob/main/Imagenes/GladiadorCircle.png?raw=true";
 }
 
